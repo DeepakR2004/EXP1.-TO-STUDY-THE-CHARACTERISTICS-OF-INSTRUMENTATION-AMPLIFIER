@@ -1,29 +1,57 @@
-# EXP1.-TO-STUDY-THE-CHARACTERISTICS-OF-INSTRUMENTATION-AMPLIFIER
+# ANALYSE THE CHARACTERISTICS OF TEMPERATURE SENSOR THERMOCOUPLE 
 
-## Aim :
-To study and calibrate Instrumentation Amplifiers.
+## Aim:
+To understand the working Principle of Thermocouple.
 
-## Procedure:
+## Step by step Procedure:
 
-Step 1: Simulator will open the circuit diagram of Instrumentation Amplifier Student will initiate the simulator To aware the connection diagram of Instrumentation amplifier.
+1. Select the type of Thermocouple to be used for experimentation.
 
-Step 2: Simulator will allow to change supply voltage from AC or DC voltage Student will select the button of voltage type from input section To aware the type of supply from AC or DC voltage.
+2. Select the 'Reference Temp' to set the temperature of reference junction from drop down menu.
 
-Step 3: Simulator will show the value of V1 and V2 at the node of supply value Student will allow to change the supply voltage of V1 and V2 by clicking the mouse button on slide bar to obtain the voltage of V1 and V2 .
+3. Click on 'Get Temperature' green color box. The temperature will be displayed for which output (mV) is to be found.
 
-Step 4: Simulator will give the value of R1, R2 and R3 and shown on the diagram Student will change the value of resistor by clicking on the slide bar To show the value of R1, R2, R3.
+4. Click on 'thermocouple Reference Table' link below the sketch to refer to standard thermocouple charts. From the perticular type of thermocouple chart, find the output millivolt value corresponding to the temperature. Enter it in the box provided and submit.
 
-Step 5: Simulator will display value of Vout or output voltage Student will allow to obtain the value of Vout or output voltage by clicking on the Vout button To obtain the value of Vout of Instrumentation Amplifier
+5. Enter the output millivolt in the answer box. If the answer is correct, it will get indicated in the box below the answer. If not verify it and enter correct output value.If wrong answer is submitted repeatedly for 3 times, the correct answer gets pop-up.
 
-Step 6: Simulator will make a graph on the right side of the simulator interaction Student will allow to obtain the graph To obtain the graph of Instrumentation amplifier.
+6. Go to step 3. Repeat the procedure at least for 3 times.
 
-## Circuit Diagram:
-![iaia](https://github.com/user-attachments/assets/38f19e89-e3d6-4128-8857-276bef594044)
+7. After finishing the required set of readings 'Plot', 'Next set' and 'Level 2' tabs are enabled. See the graph by clicking on 'Plot' tab.
 
+8. By clicking Next set tab, Repeat the procedure for different types of Thermocouples at various reference temperature values.
 
-## Table 
-<img width="603" height="343" alt="image" src="https://github.com/user-attachments/assets/b28bc2bb-526a-4c03-846d-7c11ec0ac391" /> 
+9. Click on 'Plot' to see the graphs for comparative study.
 
-## Result :
-The instrumentation amplifier showed high input impedance, high CMRR, and accurate differential gain, enabling precise amplification of small differential signals.
-Output varied linearly with the gain-setting resistor, confirming stable and predictable performance.
+10. Study the graphs for RTD performance with different reference resistance values and different materials.
+When you click on 'Level 2' tab, you can verify the Dynamic response of the thermocouple.
+
+## CIRCUIT dIAGRAM:
+
+<img width="280" height="364" alt="image" src="https://github.com/user-attachments/assets/8bcab162-fe8c-448a-bae1-c619c036b913" />
+
+## output:
+
+# Thermocouple type:
+Type B Thermocouple
+
+Type E Thermocouple
+
+Type J Thermocouple
+
+Type K Thermocouple
+
+Type N Thermocouple
+
+Type R Thermocouple
+
+Type S Thermocouple
+
+Type T Thermocouple
+
+# Output temperature: 
+
+![WhatsApp Image 2025-11-18 at 18 12 38_028666a5](https://github.com/user-attachments/assets/445bf599-9072-4979-a443-4518125c8ed7)
+
+## Result: 
+Thus ANALYSE THE CHARACTERISTICS OF TEMPERATURE SENSOR THERMOCOUPLE has been measured.
